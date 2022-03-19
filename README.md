@@ -37,6 +37,13 @@ Citations:
   year={2013}
 }
 
+================
+suggested further reading on MTE overview and surve paper:
+
+An Overview on Machine Translation Evaluation. L Han. arXiv preprint arXiv:2202.11027 (in Chinese)
+
+Translation quality assessment: a brief survey on manual and automatic methods. L Han, G Jones, A Smeaton. Proceedings for the First Workshop on Modelling Translation: Translatology 
+
 --------
 Contact: hanlifengaaron AT gmail DOT com
 
